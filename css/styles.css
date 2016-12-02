@@ -74,19 +74,27 @@ footer {
   font-family: 'Abel', sans-serif;
 }
 
+#break-line {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 12px;
+  margin-top: 2px;
+}
+
 #contact p:first-child {
   /*border-bottom: 4px solid #313030;*/
   /*padding-bottom: 10px;*/
 }
 
-hr.borderline {
+/*hr.borderline {
   background: #313030;
   border: 0;
   height: 3px;
   background: #333;
   width: 400px;
 
-}
+}*/
 
 #contact {
   background-color: #F1F2EE;
