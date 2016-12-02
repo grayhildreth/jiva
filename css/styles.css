@@ -58,6 +58,15 @@ footer {
   margin-top: 60px;
 }
 
+.line {
+  border-bottom: 4px solid #313030;
+  width:70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
 #mainNav {
   background-color: #313030;
   padding: 5px 0;
